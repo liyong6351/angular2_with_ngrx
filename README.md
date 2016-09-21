@@ -1,6 +1,8 @@
 # angular2_with_ngrx
-first clone the project to directory,then go into it
-
+describe angular2 and ngrx as the store 
 #To run
-npm install
-npm start 
+first clone the project to directory \  
+then go into it \
+
+npm install \  
+npm start \
